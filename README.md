@@ -1,4 +1,4 @@
-Here are some web references about how do I complete my graduation thesis.
+Here are some web references about how do I complete my undergraduate thesis.
 
 ## References
 
