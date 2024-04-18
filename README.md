@@ -1,3 +1,5 @@
+Originally done with Unity, it was eventually changed to UnrealEngine due to incompatibility issues.
+
 Here are some web references about how do I complete my undergraduate thesis.
 
 ## References
