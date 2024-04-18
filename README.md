@@ -1,3 +1,5 @@
+My graduation thesis focuses on the development of a digital twin system for four-rotor UAV formation. The main functions are formation generation, digital twin environment setting, formation flight control, remote communication control, etc.
+
 Originally done with Unity, it was eventually changed to UnrealEngine due to incompatibility issues.
 
 Here are some web references about how do I complete my undergraduate thesis.
