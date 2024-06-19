@@ -1,44 +1,44 @@
 ### Development reference
 
-- [Blog][blog1] - `AirSim`笔记1：`AirSim`最速上手教程
-- [Blog][blog2] - `AirSim`标签 - Idg个人博客
-- [Blog][blog3] - Vision-Based Formation Control in Unreal Engine 4 - `AirSim` - `Kaveh Fathian`
+- [Blog][blog1] - AirSim笔记1：AirSim最速上手教程
+- [Blog][blog2] - AirSim标签 - Idg个人博客
+- [Blog][blog3] - Vision-Based Formation Control in Unreal Engine 4 - AirSim - `Kaveh Fathian`
 
 
-- [ZhiHu][zhihu1] - `Airsim` & `Unreal` 仿真平台 - `宁子安`
-- [ZhiHu][zhihu2] - `PX4`的安装与基本环境的配置
-- [ZhiHu][zhihu3] - `Airsim`和`PX4`远程配置连接教程
+- [ZhiHu][zhihu1] - AirSim & Unreal 仿真平台 - `宁子安`
+- [ZhiHu][zhihu2] - PX4的安装与基本环境的配置
+- [ZhiHu][zhihu3] - AirSim和PX4远程配置连接教程
 - [ZhiHu][zhihu4] - 无人机编队类毕业论文文献有哪些？
 
 
-- [CSDN][csdn1] - `Ubuntu`基于`Gazebo`的仿真平台`Px4`
-- [CSDN][csdn2] - `UE4`-`AirSim`插件的安装全过程
-- [CSDN][csdn3] - `AirSim`学习和踩坑记录（不定时更新）
-- [CSDN][csdn4] - `AirSim`多台无人机第一视角键盘控制进阶版
-- [CSDN][csdn5] - `Airsim`（1.3.1版本）setting.json帮助文档解析
-- [CSDN][csdn6] - `Airsim` `Python` API文档整理（1.3.1版本）
-- [CSDN][csdn7] - 强化学习系列文章(二十三)：`AirSim` `Python` API图像与图像处理
-- [CSDN][csdn8] - `UE4`使用第三方库读写xml文件
+- [CSDN][csdn1] - Ubuntu基于Gazebo的仿真平台Px4
+- [CSDN][csdn2] - UE4-AirSim插件的安装全过程
+- [CSDN][csdn3] - AirSim学习和踩坑记录（不定时更新）
+- [CSDN][csdn4] - AirSim多台无人机第一视角键盘控制进阶版
+- [CSDN][csdn5] - AirSim`1.3.1版本`setting.json帮助文档解析
+- [CSDN][csdn6] - AirSim Python API文档整理（1.3.1版本）
+- [CSDN][csdn7] - 强化学习系列文章(二十三)：AirSim Python API图像与图像处理
+- [CSDN][csdn8] - UE4使用第三方库读写xml文件
 
 
-- [Doc][doc1] - `PX4` Autopilot User Guide
-- [Doc][doc2] - `AirSim` 中文文档
-- [Doc][doc3] - `AirSim` on Unity
-- [Doc][doc4] - `AirSim` Sensor Plugin Setup
+- [Doc][doc1] - PX4 Autopilot User Guide
+- [Doc][doc2] - AirSim 中文文档
+- [Doc][doc3] - AirSim on Unity
+- [Doc][doc4] - AirSim Sensor Plugin Setup
 
 
-- [BiliBili][bilibili1] - `Airsim` + `UE4` 打造完美无人机 - 车仿真环境
+- [BiliBili][bilibili1] - AirSim + UE4 打造完美无人机 - 车仿真环境
 
 
-- [YouTube][youtube1] - `AirSim` Multiple Vehicles
-- [YouTube][youtube2] - `Unreal` `AirSim` Setup from scratch
-- [YouTube][youtube3] - `Airsim` and `Mavros`
+- [YouTube][youtube1] - AirSim Multiple Vehicles
+- [YouTube][youtube2] - Unreal AirSim Setup from scratch
+- [YouTube][youtube3] - AirSim and Mavros
 
 
-- [GitHub][github1] - Simple `AirSim` - Controller API
-- [GitHub][github2] - `AirSim`
-- [GitHub][github3] - `AirSim` - Drone Generated `JSON`
-- [GitHub][github4] - `AirSim` Settings
+- [GitHub][github1] - Simple AirSim - Controller API
+- [GitHub][github2] - AirSim
+- [GitHub][github3] - AirSim - Drone Generated JSON
+- [GitHub][github4] - AirSim Settings
 
 [blog1]:https://zhaoxuhui.top/blog/2021/11/30/airsim-note1-easiest-hand-on-tutorial.html
 
