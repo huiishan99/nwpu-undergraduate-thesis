@@ -40,8 +40,6 @@ Here are some web references about how do I complete my undergraduate thesis.
 ### Video
 
 - [BiliBili][bilibili1] - AirSim + UE4 打造完美无人机 - 车仿真环境
-
-
 - [YouTube][youtube1] - AirSim Multiple Vehicles
 - [YouTube][youtube2] - Unreal AirSim Setup from scratch
 - [YouTube][youtube3] - AirSim and Mavros
