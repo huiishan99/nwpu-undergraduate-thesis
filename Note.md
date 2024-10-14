@@ -4,18 +4,22 @@ Originally done with Unity, it was eventually changed to UnrealEngine due to inc
 
 Here are some web references about how do I complete my undergraduate thesis.
 
-### Development reference
+## Development web reference:
+
+### Blog
 
 - [Blog][blog1] - AirSim笔记1：AirSim最速上手教程
 - [Blog][blog2] - AirSim标签 - Idg个人博客
 - [Blog][blog3] - Vision-Based Formation Control in Unreal Engine 4 - AirSim - `Kaveh Fathian`
 
+### ZhiHu
 
 - [ZhiHu][zhihu1] - AirSim & Unreal 仿真平台 - `宁子安`
 - [ZhiHu][zhihu2] - PX4的安装与基本环境的配置
 - [ZhiHu][zhihu3] - AirSim和PX4远程配置连接教程
 - [ZhiHu][zhihu4] - 无人机编队类毕业论文文献有哪些？
 
+### CSDN
 
 - [CSDN][csdn1] - Ubuntu基于Gazebo的仿真平台Px4
 - [CSDN][csdn2] - UE4-AirSim插件的安装全过程
@@ -26,12 +30,14 @@ Here are some web references about how do I complete my undergraduate thesis.
 - [CSDN][csdn7] - 强化学习系列文章(二十三)：AirSim Python API图像与图像处理
 - [CSDN][csdn8] - UE4使用第三方库读写xml文件
 
+### Documentation
 
 - [Doc][doc1] - PX4 Autopilot User Guide
 - [Doc][doc2] - AirSim 中文文档
 - [Doc][doc3] - AirSim on Unity
 - [Doc][doc4] - AirSim Sensor Plugin Setup
 
+### Video
 
 - [BiliBili][bilibili1] - AirSim + UE4 打造完美无人机 - 车仿真环境
 
@@ -40,6 +46,7 @@ Here are some web references about how do I complete my undergraduate thesis.
 - [YouTube][youtube2] - Unreal AirSim Setup from scratch
 - [YouTube][youtube3] - AirSim and Mavros
 
+### GitHub
 
 - [GitHub][github1] - Simple AirSim - Controller API
 - [GitHub][github2] - AirSim
